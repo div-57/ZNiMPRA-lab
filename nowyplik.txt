@@ -1,3 +1,9 @@
 1234
 1
+<<<<<<< HEAD
 zmiana w B
+=======
+Zmiana w A
+kolejna zmiana w A
+A
+>>>>>>> fa4bf8c742da2f3f7f955f778da13f71e108d509
