@@ -2,3 +2,4 @@
 1
 Zmiana w A
 kolejna zmiana w A
+A
